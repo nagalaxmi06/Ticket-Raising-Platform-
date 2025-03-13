@@ -1,0 +1,6 @@
+PUT http://localhost:5000/api/tickets/{ticketId}
+Content-Type: application/json
+
+{
+  "status": "Closed"
+}
