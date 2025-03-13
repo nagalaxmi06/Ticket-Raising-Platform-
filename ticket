@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/tickets
+Content-Type: application/json
+
+{
+  "title": "Bug Fix",
+  "description": "Fix login page issue"
+}
